@@ -17,7 +17,7 @@
 	<sonar.host.url>http://65.2.123.36:9000/</sonar.host.url>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-	  <sonar.login>af61537a4e0fbc0f4268db6d50323825e1d7548d</sonarlogin>
+	  <sonar.login>af61537a4e0fbc0f4268db6d50323825e1d7548d</sonar.login>
 </properties>
   
 </project>
